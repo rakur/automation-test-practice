@@ -1,0 +1,16 @@
+{
+  "name": "seleniumtest",
+  "version": "1.0.0",
+  "description": "Trying to make this shit work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Myself",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "chromedriver": "^2.24.1",
+    "selenium-webdriver": "3.6"
+  }
+}
